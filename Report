@@ -1,0 +1,110 @@
+# Retail Sales Performance & Executive Dashboard
+
+## Project Summary
+
+### Objective
+
+The objective of this project was to build an interactive Excel dashboard capable of tracking sales performance, profitability, customer activity, and regional trends.
+
+The dashboard was designed to help management monitor key business metrics and make informed business decisions.
+
+---
+
+## Business Problem
+
+Organizations generate large volumes of sales data but often lack efficient reporting systems. As a result, identifying profitable products, regions, and customer segments becomes challenging.
+
+This project addresses these challenges through an interactive Excel dashboard.
+
+---
+
+## Dataset Overview
+
+The dataset contains:
+
+* Order Information
+* Product Details
+* Customer Information
+* Revenue
+* Profit
+* Regional Data
+* Category Data
+
+---
+
+## Solution Approach
+
+### Data Preparation
+
+* Data Validation
+* Data Cleaning
+* Data Formatting
+* KPI Calculations
+
+### Dashboard Development
+
+Implemented:
+
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Cards
+* Conditional Formatting
+
+---
+
+## Dashboard Features
+
+### Sales Dashboard
+
+* Total Sales
+* Sales Trend Analysis
+* Sales by Region
+* Sales by Category
+
+### Profit Dashboard
+
+* Total Profit
+* Profit by Category
+* Profit by Region
+* Top Products
+
+### Customer Dashboard
+
+* Customer Contribution Analysis
+* Customer Segmentation
+* Purchase Behavior
+
+---
+
+## Key Business Insights
+
+* Top-performing products drive a significant portion of revenue.
+* Some regions consistently outperform others.
+* Seasonal demand influences sales performance.
+* Customer segments contribute differently to revenue and profit.
+
+---
+
+## Business Impact
+
+* Improved reporting efficiency.
+* Better sales visibility.
+* Enhanced strategic planning.
+* Data-driven decision-making support.
+
+---
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel Functions
+
+---
+
+## Conclusion
+
+The project successfully demonstrates how Excel can be used as a Business Intelligence tool to transform raw sales data into meaningful insights through interactive dashboards and KPI monitoring.
